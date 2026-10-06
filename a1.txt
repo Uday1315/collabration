@@ -1,3 +1,11 @@
 first version of a1 in master
+ 
+Seconf version of a1
+
 edited by valmik
+
 hello udya its me Ritesh....
+
+master
+
+Conflicts resolved By Aryan K~
